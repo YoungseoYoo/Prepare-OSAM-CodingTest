@@ -9,13 +9,13 @@ class Solution {
         }else{
             big = m; small = n;
         }
-        answer[0] = gcd(big, small);
-        answer[1] = big * small / answer[0];
+        answer[0] = gcd(big, small); // ---------- Greatest Common Divisor
+        answer[1] = big * small / gcd(big, small); // -- Least Common Multiple
         
         return answer;
     }
     
-    public int gcd(int a, int b){
+    public int gcd(int a, int b){ // -------------- GCD Algorithm
         if (a % b == 0) return b;
         return gcd(b, a%b);
     }
