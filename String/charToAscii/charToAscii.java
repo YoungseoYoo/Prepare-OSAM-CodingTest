@@ -6,8 +6,8 @@ class Solution {
         int strLen = s.length();
         if ((strLen == 4) || (strLen == 6)){
             for (int i = 0; i < strLen; i++){
-                char a = s.charAt(i);
-                int asc = (int)a;
+                char a = s.charAt(i); // ----------- String to char
+                int asc = (int)a; // --------------- char to ascii
                 if ((65 <= a) && (a <= 90)){
                     answer = false;
                     break;
