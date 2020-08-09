@@ -10,3 +10,4 @@ Test : 2020.09.01~2020.09.15
 * GcdLcm : GCD (Greatest Common Divisor) / LCM (Least Common Multiple)
 * fibonacci : fibonacci.java (ordinary fib) / fibonacciFast.java (fast ver by using tail recursion)
 * matrix : matrix calculator
+* palindrome : do palindrome, return length of palindrome. If it is not palindrome, return 0.
