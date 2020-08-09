@@ -13,4 +13,5 @@ Test : 2020.09.01~2020.09.15
 * palindrome : do palindrome, return length of palindrome. If it is not palindrome, return 0.
 
 # Graph
-* DfsBfs : Depth First Search / Breath First Search
+* DfsBfs : Depth First Search / Breath First Search (Yang Lecture ver)
+* DFS : Depth First Search (arr[][] ver)
