@@ -15,3 +15,6 @@ Test : 2020.09.01~2020.09.15
 # Graph
 * DfsBfs : Depth First Search / Breath First Search (Yang Lecture ver)
 * DFS : Depth First Search (arr[][] ver)
+
+# List
+* ASC : sort list as ascending by using 'Arrays.sort()'
