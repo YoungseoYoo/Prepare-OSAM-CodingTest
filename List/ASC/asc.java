@@ -2,9 +2,10 @@ import java.util.*;
 
 class Solution {
     public int solution(int[] A, int[] B) {
-        // sort A and B as ASC
+        // sort A and B as ASC --------------------------- how to sort list as asc ↓↓
         Arrays.sort(A);
         Arrays.sort(B);
+        // ----------------------------------------------- how to sort list as asc ↑↑
         
         // set basic data
         int answer = 0; // B team's winning point
