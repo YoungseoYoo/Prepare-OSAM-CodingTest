@@ -17,4 +17,5 @@ Test : 2020.09.01~2020.09.15
 * DFS : Depth First Search (arr[][] ver)
 
 # List
-* ASC : sort list as ascending by using 'Arrays.sort()'
+* ASC : sort list as ascending by using 'Arrays.sort()' (for all type)
+* DESC : sort list as descending by using 'Comparator' or 'Collections' (only for Integer, String)
