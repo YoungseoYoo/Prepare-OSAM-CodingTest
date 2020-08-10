@@ -3,7 +3,7 @@ class Solution {
         long answer = 0;
         double dResult = 0.0;
         int iResult = 0;
-        dResult = Math.sqrt(n);
+        dResult = Math.sqrt(n); // ---------- dResult * dResult = n
         iResult = (int)dResult;
         
          check
