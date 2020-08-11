@@ -25,3 +25,5 @@ Test : 2020.09.01~2020.09.15
 
 # Sort
 * arr[][j]Sort : sort two dimensional array by its specific column
+* Comparable : how to use Comparable (used for primitive type sort)
+* Comparator : how to use Comparator (usde for 
