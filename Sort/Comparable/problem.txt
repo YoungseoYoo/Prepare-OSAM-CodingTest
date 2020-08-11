@@ -1,0 +1,9 @@
+1. Arrays.sort()
+
+배열 정렬의 경우
+ex) byte[], char[], double[], int[], Object[], T[]
+
+2. Collections.sort()
+
+List Collection 정렬의 경우
+ex) ArrayList, LinkedList, Vector
