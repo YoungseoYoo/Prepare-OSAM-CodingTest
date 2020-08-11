@@ -22,3 +22,6 @@ Test : 2020.09.01~2020.09.15
 
 # Math
 * SQRT : find square root 
+
+# Sort
+* arr[][j]Sort : sort two dimensional array by its specific column
