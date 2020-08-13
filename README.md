@@ -11,6 +11,7 @@ Test : 2020.09.01~2020.09.15
 * fibonacci : fibonacci.java (ordinary fib) / fibonacciFast.java (fast ver by using tail recursion)
 * matrix : matrix calculator
 * palindrome : do palindrome, return length of palindrome. If it is not palindrome, return 0.
+* primeNumber : find prime number by using Sieve of Eratosthenes (에라토스테네스의 체 알고리즘을 이용하여 소수 찾기)
 
 # Graph
 * DfsBfs : Depth First Search / Breath First Search (Yang Lecture ver)
